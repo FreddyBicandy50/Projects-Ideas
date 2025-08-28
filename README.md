@@ -119,4 +119,4 @@ In the world of fast food and delivery we wanted to help one who is looking for 
 
 ---
 
-FreddyBicandy50 | LinkedIn: [Frédéric Bicandy](https://www.linkedin.com/in/freddy-bicandy/)
+fbicandy | LinkedIn: [Frédéric Bicandi](https://www.linkedin.com/in/fredericbicandi/)
