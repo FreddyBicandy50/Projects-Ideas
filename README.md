@@ -37,7 +37,7 @@ In the world of fast food and delivery we wanted to help one who is looking for 
 
 <b>Possible Enhancements:</b> we can extend this project by allowing the blog writer to use the help of ai tools thus ai api is needed here
 
-<b>WebApp Link:</b> <a href="https://bicandy-new.42web.io/nutriverse" target="_blank">click here</a>
+<b>WebApp Link:</b> <a href="https://fbicandy.42web.io/nutriverse/" target="_blank">click here</a>
 
 ## <img align="center" width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/> Arduino - Controller System (C++)
 
